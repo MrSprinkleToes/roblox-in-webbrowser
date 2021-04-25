@@ -1,0 +1,17 @@
+{
+  "name": "FearfulBrokenDimensions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4",
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
