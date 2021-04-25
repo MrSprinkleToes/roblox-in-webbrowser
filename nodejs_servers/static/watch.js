@@ -17,7 +17,6 @@ document.body.appendChild( renderer.domElement )
 
 var loader = new THREE.TextureLoader()
 loader.crossOrigin = "Anonymous"
-var meshLoader = new THREE.ColladaLoader()
 
 camera.position.z = 1
 camera.position.x = 1
